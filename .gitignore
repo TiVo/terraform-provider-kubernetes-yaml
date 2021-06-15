@@ -32,3 +32,6 @@ website/vendor
 **/terraform-provider-kubernetes-yaml
 **/terraform-provider-k8sraw
 k3s
+
+# tivo exclusions
+out/
