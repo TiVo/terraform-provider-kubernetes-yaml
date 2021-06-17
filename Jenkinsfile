@@ -1,7 +1,7 @@
 #!groovy
 
 def providerID = 'terraform-provider-k8sraw'
-def providerVersion = 'v0.2.1-tivo'
+def providerVersion = 'v0.2.1-tivo.1'
 
 pipeline {
     agent none
